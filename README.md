@@ -33,7 +33,7 @@
 
 I'm a Wix and Hubspot Developer, and a Tech Content Writer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from California and Toronto.
 
-- 🔭 I’m currently working on a really cool JavaScript Course (to *finally* become strong in JS) and building a Swagger API
+- :rocket: I’m currently working on a really cool JavaScript Course (to *finally* become strong in JS) and building a Swagger API
 
 - 🔭 I just finished a really cool Git-GitHub course to refresh my skills and using both on real-world projects now!
 
@@ -45,7 +45,7 @@ I'm a Wix and Hubspot Developer, and a Tech Content Writer <img src="https://med
 
 - :zap: In my free time, I build sites in Wix using Velo and write blog posts and articles for fun.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jasonbariamis)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jasonbariamis)
 
 ---
 
