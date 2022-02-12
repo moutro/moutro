@@ -31,7 +31,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Wix and Hubspot Developer, and a Tech Content Writer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from California and Toronto.
+I'm a Wix and Hubspot Developer, and a Tech Content Writer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :rocket: I’m currently working on a really cool JavaScript Course (to *finally* become strong in JS) and building a Swagger API
 
