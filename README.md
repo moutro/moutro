@@ -33,7 +33,7 @@
 
 I'm a Wix and Hubspot Developer, and a DevEd Content Writer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :rocket: I’m currently working on a really cool JavaScript Course (to *finally* become strong in JS) and building a Swagger API
+- :rocket: I’m currently working on 2 really cool JavaScript Courses concurrently (to *finally* become strong in JS) and building a Swagger API
 
 - 🔭 I just finished a really cool Git-GitHub course to refresh my skills and using both on real-world projects now!
 
