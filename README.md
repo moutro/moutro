@@ -3,9 +3,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/jasonbariamis">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
     <a href="https://www.jasonbariamis.com">
       <img src="https://img.shields.io/badge/Jason's Portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Jason's Portfolio"/>
     </a>
@@ -14,7 +11,7 @@
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=moutro&style=flat-square&color=blue" alt=""/>
+<!--   <img src="https://komarev.com/ghpvc/?username=moutro&style=flat-square&color=blue" alt=""/> -->
   
   <h1>
   hey there
@@ -46,8 +43,6 @@ I'm a former HubSpot web developer and now doing it at Wix, along with engineeri
 - :seedling: Exploring new technologies in Wix, learning about Open Source projects, Mobile, Infra, and learning the vast ecosystem from brilliant engineering minds!
 
 - :zap: In my free time, I build sites in Wix, work in Velo, take JS and React courses, build and sometimes write engineering blog posts and articles for fun
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jasonbariamis)
 
 ---
 
