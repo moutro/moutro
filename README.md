@@ -14,7 +14,7 @@
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=moutro&style=flat-square&color=blue" alt=""/>
   
   <h1>
   hey there
@@ -75,10 +75,11 @@ I'm a former HubSpot web developer and now doing it at Wix, along with engineeri
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jasonbariwix&theme=dark&background=000000)](https://git.io/streak-stats)  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moutro&theme=dark&background=000000)](https://git.io/streak-stats)
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jasonbariwix&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonbariwix)](https://github.com/anuraghazra/github-readme-stats) -->
+![Jason’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonbariwix&count_private=true&theme=radical&show_icons=true)  
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonbariwix&langs_count=8)](https://github.com/jasonbariwix/github-readme-stats&theme=radical)
 
 
 
