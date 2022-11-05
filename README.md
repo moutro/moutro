@@ -74,7 +74,7 @@ I'm a former HubSpot web developer and now doing it at Wix, along with engineeri
 
 ![Jason’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonbariwix&count_private=true&theme=radical&show_icons=true)  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonbariwix&langs_count=8)](https://github.com/jasonbariwix/github-readme-stats&theme=radical)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonbariwix&langs_count=8)](https://github.com/jasonbariwix/github-readme-stats&theme=radical) -->
 
 
 
