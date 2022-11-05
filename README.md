@@ -6,7 +6,7 @@
     <a href="https://www.jasonbariamis.com">
       <img src="https://img.shields.io/badge/Jason's Portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Jason's Portfolio"/>
     </a>
-    <a href="https://twitter.com/WDev323">
+    <a href="https://twitter.com/JsonBarDev">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
