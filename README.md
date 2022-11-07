@@ -38,8 +38,6 @@ I'm a former HubSpot web developer and now working at Wix <img src="https://medi
 
 - :zap: In my free time, I build sites in Wix using Velo and the Wix Editors. I am working on dev learning to get my skills up (React and JS, mainly). I also like to write some blog posts and articles - Dev related, of course 😏.
 
-- :zap: In my free time, I build sites in Wix, work in Velo, take JS and React courses, build and sometimes write engineering blog posts and articles for fun
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
