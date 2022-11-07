@@ -28,7 +28,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a former HubSpot web developer and now doing it at Wix, along with engineering tech writing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm a former HubSpot web developer and now working at Wix <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 💥Just completed a site redesign contribution to a great Wix Open Source project!! 🌠
 
