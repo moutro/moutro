@@ -30,17 +30,13 @@
 
 I'm a former HubSpot web developer and now working at Wix <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 💥Just completed a site redesign contribution to a great Wix Open Source project!! 🌠
+- 👨‍🎨 Experienced using Wix Velo, Editors and also a former Hubspot CMS/CRM Developer.
 
-- :rocket: I’m currently working on 2 really cool courses in JavaScript and React (to *finally* become strong in JS) and building a Swagger API
+- 💥 Just completed a site redesign contribution to a great Wix Open Source project!! 🌠
 
-- 🔭 I just finished a really cool Git-GitHub course to refresh my skills and using both on real-world projects now!
+- :seedling: Exploring new technologies in Wix, working on Open Source projects at Wix, learning about the vast Wix ecosystem from brilliant engineering minds (and Tech Writing about it)!
 
-- 🌱 I’m currently mastering how to use Velo in Wix to build more complex websites and API integrations with HubSpot
-
-- 👯 I’m looking to collaborate on Vanilla JS projects - my goal for 2022 is to be a solid JS and React developer
-
-- :seedling: Exploring new technologies in Wix, learning about Open Source projects, Mobile, Infra, and learning the vast ecosystem from brilliant engineering minds!
+- :zap: In my free time, I build sites in Wix using Velo and the Wix Editors. I am working on dev learning to get my skills up (React and JS, mainly). I also like to write some blog posts and articles - Dev related, of course 😏.
 
 - :zap: In my free time, I build sites in Wix, work in Velo, take JS and React courses, build and sometimes write engineering blog posts and articles for fun
 
