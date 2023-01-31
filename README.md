@@ -69,14 +69,15 @@ I'm a former HubSpot Web Developer and now working at Wix <img src="https://medi
 ### :fire: My Stats :
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=moutro&theme=dark)](https://git.io/streak-stats) -->
 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moutro)](https://github.com/moutro/github-readme-stats) -->
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moutro&theme=dark&background=000000)](https://git.io/streak-stats)  
 
-<!-- ![Jason’s GitHub stats](https://github-readme-stats.vercel.app/api?username=moutro&count_private=true&theme=radical&show_icons=true)   -->
+![Jason’s GitHub stats](https://github-readme-stats.vercel.app/api?username=moutro&count_private=true&theme=tokyonight&show_icons=true)  
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moutro&langs_count=8)](https://github.com/jasonbariwix/github-readme-stats&theme=radical)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/moutro/repos)](https://githubtrends.io)
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/moutro/langs)](https://githubtrends.io)
 
 
 
