@@ -72,13 +72,16 @@ I love to build web apps, websites, work with APIs, contribute to OSS projects, 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moutro)](https://github.com/moutro/github-readme-stats) -->
 
+![GH Moutro Stats](https://github-stats-alpha.vercel.app/api?username=moutro&cc=000&tc=fff&ic=fff&bc=000)
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moutro&theme=dark&background=000000)](https://git.io/streak-stats)  
 
 ![Jason’s GitHub stats](https://github-readme-stats.vercel.app/api?username=moutro&count_private=true&theme=tokyonight&show_icons=true)  
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moutro&langs_count=8)](https://github.com/jasonbariwix/github-readme-stats&theme=radical)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/moutro/langs)](https://githubtrends.io)
+<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/moutro/langs)](https://githubtrends.io) -->
 
 
 
