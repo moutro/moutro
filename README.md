@@ -37,7 +37,7 @@ I love to build web apps, websites, work with APIs, contribute to OSS projects, 
 
 - 🕵️ Exploring new technologies in Wix, working on a great Open Source project at Wix, learning about the vast Wix ecosystem from brilliant engineering minds!
 
-- :zap: In my free time, I build sites in Wix using Velo and the Wix Editors. I am working on dev learning to get my skills up (React, JS, Node.js and TS, mainly). I also like to write some blog posts and articles - Dev related, of course 😏. Planning to start post more online starting with Twitter soon!
+- :zap: In my free time, I build sites in Wix using Velo and the Wix Editors. I am working on dev learning to get my skills up (React, JS, Node.js and TS, mainly). I also like to write some blog posts and articles - Dev related, of course 😏. Planning to start posting more content online starting with Twitter and Medium, soon!
 
 ---
 
