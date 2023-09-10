@@ -31,13 +31,13 @@
 I'm a former HubSpot Web Developer and now working at Wix <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 I love to build web apps, websites, work with APIs, contribute to OSS projects, and develop inside of Wix and HubSpot!
 
-- 👨‍🎨 Experienced using Wix Velo, Wix Editors and also with the Hubspot CMS/CRM, and HubSpot APIs.
+- 👨‍🎨 Experienced using Wix platform for developers and also with the Hubspot CMS/CRM, and HubSpot APIs.
 
-- 💥 Just completed a site redesign contribution to a great Wix Open Source project!! 🌠
+- 💥 Completed a site redesign contribution to a great Wix Open Source project - Detox!! 🌠
 
-- 🕵️ Exploring new technologies in Wix, working on a great Open Source project at Wix, learning about the vast Wix ecosystem from brilliant engineering minds!
+- 🕵️ Exploring new technologies in Wix, working with Wix's Detox OS team and site redesign tasks, learning about the vast Wix ecosystem from brilliant engineering minds!
 
-- :zap: In my free time, I build sites in Wix using Velo and the Wix Editors. I am working on dev learning to get my skills up (React, JS, Node.js and TS, mainly). I also like to write some blog posts and articles - Dev related, of course 😏. Planning to start posting more content online starting with Twitter and Medium, soon!
+- :zap: In my free time, I build websites and apps and am learning how to develop apps using AI tools. I am working on dev learning to get my skills up (React, JS, Node.js, AI tools, and TS, mainly). I also like to write some blog posts and articles - Dev related, of course 😏. Planning to start posting more content online starting with LinkedIn and Medium, soon!
 
 ---
 
