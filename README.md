@@ -92,9 +92,9 @@ I love to build web apps, websites, work with APIs, contribute to OSS projects, 
 
 <br>
 
-![Jason’s GitHub stats](https://github-readme-stats.vercel.app/api?username=moutro&count_private=true&theme=tokyonight&show_icons=true)  
+<!-- ![Jason’s GitHub stats](https://github-readme-stats.vercel.app/api?username=moutro&count_private=true&theme=tokyonight&show_icons=true) -->
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moutro&langs_count=8)](https://github.com/jasonbariwix/github-readme-stats&theme=radical)
+<![![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moutro&langs_count=8)](https://github.com/jasonbariwix/github-readme-stats&theme=radical)
 
 <!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/moutro/langs)](https://githubtrends.io) -->
 
