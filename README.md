@@ -26,22 +26,21 @@
 
 ---
 
-### :man_technologist: About Me :
+### About Me :
 
-I'm a former HubSpot Web Developer and now working at Wix <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-I love to build web apps, websites, work with APIs, contribute to OSS projects, and develop inside of Wix and HubSpot!
+I'm a skilled developer with experience at both HubSpot, Wix, and a founder of my own dev startup. I have a passion for crafting web apps, websites, working with AI tools and with APIs. I'm also an active contributor and collaborator to open-source projects and have specialized expertise in Wix and HubSpot development.
 
-- 👨‍🎨 Experienced using Wix platform for developers and also with the Hubspot CMS/CRM, and HubSpot APIs.
+- 👨‍🎨 **Expertise**: Proficient in the Wix platform for developers, HubSpot CMS/CRM, and HubSpot APIs.
 
-- 💥 Completed a site redesign contribution to a great Wix Open Source project - Detox!! 🌠
+- 💥 **Achievements**: Proudly contributed to a site redesign for Wix's renowned open-source project, [Detox](https://wix.github.io/Detox/showcase/).
 
-- 🕵️ Exploring new technologies in Wix, working with Wix's Detox OS team and site redesign tasks, learning about the vast Wix ecosystem from brilliant engineering minds!
+- 🕵️ **Current Focus**: I'm currently building AI-driven apps and a React-based marketplace application.
 
-- :zap: In my free time, I build websites and apps and am learning how to develop apps using AI tools. I am working on dev learning to get my skills up (React, JS, Node.js, AI tools, and TS, mainly). I also like to write some blog posts and articles - Dev related, of course 😏. Planning to start posting more content online starting with LinkedIn and Medium, soon!
+- :zap: **In My Free Time**: I'm not just a developer; I'm a lifelong learner. I'm currently honing my skills in React, JavaScript, Node.js, TypeScript, and AI technologies to build more intelligent and efficient applications. I also enjoy sharing my insights through blog posts and articles, primarily focused on development. Keep an eye out for my content on LinkedIn and Medium!
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React" width="40" height="40"/>&nbsp;
