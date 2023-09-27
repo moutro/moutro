@@ -36,7 +36,7 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
 
 - 🕵️ **Current Focus**: I'm currently building AI-driven apps and a React-based marketplace application.
 
-- :zap: **In My Free Time**: I'm not just a developer; I'm a lifelong learner. I'm currently honing my skills in React, JavaScript, Node.js, TypeScript, and AI technologies to build more intelligent and efficient applications. I also enjoy sharing my insights through blog posts and articles, primarily focused on development. Keep an eye out for my content on LinkedIn and Medium!
+- :zap: **In My Free Time**: I'm not just a developer; I'm a lifelong learner. I'm currently honing my skills in React, JavaScript, Node.js, TypeScript, and AI technologies to build more intelligent and efficient applications. I also enjoy sharing my insights through blog posts and articles, primarily focused on development. Keep an eye out for my content on [LinkedIn](https://www.linkedin.com/in/jasonbariamis/) and [Medium](https://medium.com/@jasonbari646)!
 
 ---
 
@@ -93,7 +93,7 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
 
 <!-- ![Jason’s GitHub stats](https://github-readme-stats.vercel.app/api?username=moutro&count_private=true&theme=tokyonight&show_icons=true) -->
 
-<![![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moutro&langs_count=8)](https://github.com/jasonbariwix/github-readme-stats&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moutro&langs_count=8)](https://github.com/jasonbariwix/github-readme-stats&theme=radical)
 
 <!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/moutro/langs)](https://githubtrends.io) -->
 
