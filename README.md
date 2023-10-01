@@ -72,7 +72,7 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
 
 ---
 
-### :fire: My Stats :
+### :fire: My GitHub Stats :
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=moutro&theme=dark)](https://git.io/streak-stats) -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moutro)](https://github.com/moutro/github-readme-stats) -->
@@ -97,9 +97,11 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
 
 <br>
 
+<a href="https://github.com/moutro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moutro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <!-- ![Jason’s GitHub stats](https://github-readme-stats.vercel.app/api?username=moutro&count_private=true&theme=tokyonight&show_icons=true) -->
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moutro&langs_count=8)](https://github.com/jasonbariwix/github-readme-stats&theme=radical)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moutro&langs_count=8)](https://github.com/jasonbariwix/github-readme-stats&theme=radical) -->
 
 <!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/moutro/langs)](https://githubtrends.io) -->
 
