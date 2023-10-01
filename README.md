@@ -34,7 +34,7 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
 
 - 💥 **Achievements**: Proudly contributed to a site redesign for Wix's renowned open-source project, [Detox](https://wix.github.io/Detox/showcase/).
 
-- 🕵️ **Current Focus**: I'm currently building AI-driven apps and a React-based marketplace application.
+- 🕵️ **Currently Working On:**: I'm currently building AI-driven apps and a React-based marketplace application.
 
 - :zap: **In My Free Time**: I'm not just a developer; I'm a lifelong learner. I'm currently honing my skills in React, JavaScript, Node.js, TypeScript, and AI technologies to build more intelligent and efficient applications. I also enjoy sharing my insights through blog posts and articles, primarily focused on development. Keep an eye out for my content on [Medium](https://medium.com/@jasonbari646) !
 
@@ -46,6 +46,7 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36"       alt="Sass" /></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="github" width="40" height="40"/>
@@ -53,15 +54,20 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
   <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" title="Sourcetree" alt="sourcetree" width="40"   height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp;
   <img src="https://iconape.com/wp-content/files/ba/371652/svg/371652.svg" title="Wix" alt="Wix" width="40" height="40"/>
-  <img src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/docusaurus.svg" title="Docusaurus" alt="Docusaurus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/charleskorn/docusaurus-svg-issue/blob/master/static/img/logo.svg" title="Docusaurus" alt="Docusaurus" width="40" height="40"/>&nbsp;
   <img src="https://brandeps.com/logo-download/H/HubSpot-logo-vector-01.svg" title="HubSpot" alt="HubSpot" width="40" height="40"/>&nbsp;
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_markdown.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/gilbarbara/logos/blob/master/logos/mdx.svg" title="mdx" alt="mdx" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/mdx.svg" title="mdx" alt="mdx" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36"           height="36" alt="Bootstrap" /></a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36"       alt="Material UI" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36"     alt="Express" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36"   
+    alt="Figma" /></a>
 </div>
 
 ---
@@ -76,7 +82,7 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
 <div>
   <h3>Current moutro GitHub Account Streak</h3>
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=moutro&theme=dark&background=000000" alt="GitHub Streak">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=moutro&theme=dark&background=000000" alt="GitHub Streak">
   </a>
 </div>
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moutro&theme=dark&background=000000)](https://git.io/streak-stats)
