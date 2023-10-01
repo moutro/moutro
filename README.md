@@ -34,7 +34,7 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
 
 - 💥 **Achievements**: Proudly contributed to a site redesign for Wix's renowned open-source project, [Detox](https://wix.github.io/Detox/showcase/).
 
-- 🕵️ **Currently Working On:**: I'm currently building AI-driven apps and a React-based marketplace application.
+- 🕵️ **Currently Working On**: I'm currently building AI-driven apps and a React-based marketplace application.
 
 - :zap: **In My Free Time**: I'm not just a developer; I'm a lifelong learner. I'm currently honing my skills in React, JavaScript, Node.js, TypeScript, and AI technologies to build more intelligent and efficient applications. I also enjoy sharing my insights through blog posts and articles, primarily focused on development. Keep an eye out for my content on [Medium](https://medium.com/@jasonbari646) !
 
