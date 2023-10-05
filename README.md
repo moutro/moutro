@@ -32,7 +32,7 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
 
 - 👨‍🎨 **Expertise**: Proficient in the Wix platform for developers, HubSpot CMS/CRM, and HubSpot APIs.
 
-- 💥 **Achievements**: Proudly contributed to a site redesign for Wix's renowned open-source project, [Detox](https://wix.github.io/Detox/showcase/).
+- 💥 **Achievements**: Proudly contributed to a site redesign for Wix's renowned open-source project - [Detox](https://wix.github.io/Detox/showcase/).
 
 - 🕵️ **Currently Working On**: I'm currently building AI-driven apps and a React-based marketplace application.
 
