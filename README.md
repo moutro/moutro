@@ -78,6 +78,13 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
 
 ---
 
+### Blog posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### :fire: My GitHub Stats :
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=moutro&theme=dark)](https://git.io/streak-stats) -->
 
