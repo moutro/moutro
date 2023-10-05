@@ -78,7 +78,7 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
 
 ---
 
-### Blog posts :
+### My Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 - [The Rise of AI — 5 Steps Technical Writers MUST DO RIGHT NOW to Adapt and Stay Relevant](https://medium.com/@jasonbari646/the-rise-of-ai-5-steps-technical-writers-must-do-right-now-to-adapt-and-stay-relevant-582d64a51d3c?source=rss-cea94dae0208------2)
