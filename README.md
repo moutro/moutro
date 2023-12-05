@@ -86,7 +86,7 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
 
 ---
 
-### :fire: My GitHub Stats :
+### My GitHub Stats :
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=moutro&theme=dark)](https://git.io/streak-stats) -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moutro)](https://github.com/moutro/github-readme-stats) -->
