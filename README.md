@@ -30,7 +30,7 @@
 
 I'm a skilled developer with experience at both HubSpot, Wix, and a founder of my own dev startup. I have a passion for crafting web apps, websites, working with AI tools and with APIs. I'm also an active contributor and collaborator to open-source projects and have specialized expertise in Wix and HubSpot development.
 
-- 👨‍🎨 **Expertise**: JavaScript, React, Node.js, APIs. Proficient in the Wix platform for developers, HubSpot CMS/CRM, and HubSpot APIs.
+- 👨‍🎨 **Expertise**: JavaScript, React, Node.js, Git, GitHub, APIs, Technical Writing. Proficient in the Wix platform for developers, HubSpot CMS/CRM, and HubSpot APIs.
 
 - 💥 **Achievements**: Proudly contributed to and collaborated on a site redesign for Wix's renowned open-source project - [Detox](https://wix.github.io/Detox/showcase/)
 
