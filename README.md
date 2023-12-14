@@ -83,6 +83,7 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
 <!-- BLOG-POST-LIST:START -->
 - [The Rise of AI — 5 Steps Technical Writers MUST DO RIGHT NOW to Adapt and Stay Relevant](https://medium.com/@jasonbari646/the-rise-of-ai-5-steps-technical-writers-must-do-right-now-to-adapt-and-stay-relevant-582d64a51d3c?source=rss-cea94dae0208------2)
 - [Building an AI-Powered Book Recommendation App with Next.js and Tailwind CSS](https://medium.com/@jasonbari646/building-an-ai-powered-book-recommendation-app-with-next-js-and-tailwind-css-ba3085f7a5ed)
+- [Evolving BookMind AI: Leveraging JSON, Amazon Links, DALL-E, and the Power of TDD](https://medium.com/@jasonbari646/evolving-bookmind-ai-leveraging-json-amazon-links-dall-e-and-the-power-of-tdd-dbd6b89054dc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
