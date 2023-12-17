@@ -36,7 +36,7 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
 
 - 🕵️ **Currently Working On**: I'm currently building AI-driven apps and a React-based marketplace application.
 
-- :zap: **In My Free Time**: I'm not just a developer; I'm a lifelong learner and Technical Writer. I'm currently honing my skills in React, JavaScript, Node.js, TypeScript, and AI technologies to build more intelligent and efficient applications. I also enjoy sharing my insights through blog posts and articles, primarily focused on development. You can link to my current article on Medium, below.
+- :zap: **In My Free Time**: I'm not just a developer; I'm a lifelong learner and Technical Writer. I'm currently honing my skills in React, JavaScript, Node.js, TypeScript, and AI technologies to build more intelligent and efficient applications. I also enjoy sharing my insights through blog posts and articles, primarily focused on development. You can link to my current articles on Medium, below.
 
 ---
 
