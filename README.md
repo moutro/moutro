@@ -34,7 +34,7 @@ I'm a skilled developer with experience at both HubSpot, Wix, and a founder of m
 
 - 💥 **Achievements**:
 1. Proudly contributed to and collaborated on a site redesign for Wix's renowned open-source project - [Detox](https://wix.github.io/Detox/showcase/)
-2. I developed [BookMind AI](https://openai-search-tool-app-5w51.vercel.app/), an AI app for personalized book recommendations, showcasing my skills in React.js, prompting, OpenAI integration, and Jest testing. The app uses DALL-E for image generation and features Amazon link integration for easy book discovery. Working on BookMind AI sparked my interest in exploring Next.js and Tailwind CSS, further expanding my skills in modern web development technologies.
+2. I developed [BookMind AI](https://openai-search-tool-app-5w51.vercel.app/), an AI app for personalized book recommendations, showcasing my skills in React.js, AI Prompting, OpenAI integration, and Jest testing. The app uses DALL-E for image generation and features Amazon link integration for easy book discovery. Working on BookMind AI sparked my interest in exploring Next.js and Tailwind CSS, further expanding my skills in modern web development technologies.
 
 - 🕵️ **Currently Working On**: I'm currently building AI-driven apps and a React-based marketplace application.
 
