@@ -25,7 +25,7 @@
 </div>
 
 ---
-
+<!--
 ### About Me :
 
 I'm a technical writer and frontend developer with experience at Amazon AWS, Autodesk, Wix, and HubSpot, and a founder of my own dev startup. I have a passion for AI, crafting web apps, websites, working with AI tools and with APIs. I'm also an active contributor and collaborator to open-source projects and have specialized expertise in Wix and HubSpot development.
