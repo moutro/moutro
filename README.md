@@ -28,7 +28,7 @@
 
 ### About Me
 
-I build AI-powered developer tools and documentation systems.
+I build AI-powered developer tools and documentation systems
 
 Background:
 - Technical Writer at leading Telecom company
