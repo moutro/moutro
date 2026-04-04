@@ -26,19 +26,31 @@
 
 ---
 
-### About Me :
+### About Me
 
-I'm a technical writer and frontend developer with experience at Amazon AWS, Autodesk, Wix, and HubSpot, and a founder of my own dev startup. I have a passion for AI, crafting web apps, websites, working with AI tools and with APIs. I'm also an active contributor and collaborator to open-source projects and have specialized expertise in Wix and HubSpot development.
+I build AI-powered developer tools and documentation systems.
 
-- 👨‍🎨 **Expertise**: JavaScript, React, Node.js, Git, GitHub, APIs, Technical Writing. Proficient in the Wix platform for developers, HubSpot CMS/CRM, and HubSpot APIs.
+Background:
+- Technical Writer at leading Telecom company
+- Built and scaled developer documentation platforms (Docusaurus, APIs, CI/CD)
+- Frontend experience (React, JavaScript)
 
-- 💥 **Achievements**:
-1. Proudly contributed to and collaborated on a site redesign for Wix's renowned open-source project - [Detox](https://wix.github.io/Detox/showcase/)
-2. I developed [BookMind AI](https://openai-search-tool-app-5w51.vercel.app/), an AI app for personalized book recommendations, showcasing my skills in React.js, AI Prompting, OpenAI integration, and Jest testing. The app uses DALL-E for image generation and features Amazon link integration for easy book discovery. Working on BookMind AI sparked my interest in exploring Next.js and Tailwind CSS, further expanding my skills in modern web development technologies.
+Current focus:
+- Building AI agents and tools using OpenAI APIs
+- Automating documentation workflows
+- Creating developer-facing AI systems
 
-- 🕵️ **Currently Working On**: I'm currently working as a Technical Writer at a major Telecom, building AI-driven apps and a React-based marketplace application.
+Selected work:
+- [BookMind AI](https://openai-search-tool-app-5w51.vercel.app/) – AI-powered recommendation app (OpenAI, React)
+- [Detox](https://wix.github.io/Detox/showcase/) - Docusaurus-based documentation platform (adopted for production use)
 
-- :zap: **In My Free Time**: I'm not just a technical writer; I'm a lifelong learner and frontend developer. I'm currently honing my skills technical writing, React, JavaScript, Node.js, TypeScript, and AI technologies to build more intelligent and efficient applications. I also enjoy sharing my insights through blog posts and articles, primarily focused on development. You can link to my current articles on Medium, below.
+---
+
+### Current Focus
+
+- AI Agents (OpenAI APIs, tool calling, automation)
+- Developer Documentation Systems
+- API-driven applications
 
 ---
 
