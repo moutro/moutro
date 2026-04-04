@@ -38,7 +38,7 @@
 I build AI-powered developer tools and documentation systems
 
 Background:
-- Technical Writer at leading Telecom company
+- Technical Writer at a leading Telecom company
 - Built and scaled developer documentation platforms (Docusaurus, APIs, CI/CD)
 - Frontend experience (React, JavaScript)
 
