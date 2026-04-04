@@ -1,8 +1,13 @@
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" /> -->
 
-  <div id="badges">
+ <div align="center">
+  <h1>Hi, I'm Jason</h1>
+  <p>AI-powered developer tools • Senior Technical Writer</p>
+</div>
+
+<div id="badges">
     <a href="https://www.jasonbariamis.com">
       <img src="https://img.shields.io/badge/Jason's Portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Jason's Portfolio"/>
     </a>
@@ -18,16 +23,13 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1> -->
 
-<div align="center">
-  <h1>Hi, I'm Jason</h1>
-  <p>AI-powered developer tools • Senior Technical Writer</p>
-</div>
+
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 ---
 
