@@ -49,7 +49,7 @@ Current focus:
 
 Selected work:
 - [BookMind AI](https://openai-search-tool-app-5w51.vercel.app/) – AI-powered recommendation app (OpenAI, React)
-- [Detox](https://wix.github.io/Detox/showcase/) - Docusaurus-based documentation platform (adopted for production use)
+- [Detox](https://wix.github.io/Detox/showcase/) - Docusaurus-based documentation platform
 
 ---
 
