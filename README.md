@@ -8,13 +8,13 @@
 </div>
 
 <div id="badges">
-    <a href="https://www.jasonbariamis.com">
-      <img src="https://img.shields.io/badge/Jason's Portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Jason's Portfolio"/>
-    </a>
-    <a href="https://twitter.com/JsonBarDev">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
+  <a href="https://www.jasonbariamis.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://medium.com/@jasonbari646">
+    <img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+</div>
   
 <!--   <img src="https://komarev.com/ghpvc/?username=moutro&style=flat-square&color=blue" alt=""/> -->
   
@@ -44,20 +44,12 @@ Background:
 
 Current focus:
 - Building AI agents and tools using OpenAI APIs
-- Automating documentation workflows
+- Documentation workflow automation
 - Creating developer-facing AI systems
 
 Selected work:
 - [BookMind AI](https://openai-search-tool-app-5w51.vercel.app/) – AI-powered recommendation app (OpenAI, React)
 - [Detox](https://wix.github.io/Detox/showcase/) - Docusaurus-based documentation platform (adopted for production use)
-
----
-
-### Current Focus
-
-- AI Agents (OpenAI APIs, tool calling, automation)
-- Developer Documentation Systems
-- API-driven applications
 
 ---
 
