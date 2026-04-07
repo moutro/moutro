@@ -8,12 +8,12 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.jasonbariamis.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://medium.com/@jasonbari646">
-    <img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
+<a href="https://www.jasonbariamis.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-c0392b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
+</a>
+<a href="https://medium.com/@jasonbari646">
+  <img src="https://img.shields.io/badge/Medium-Blog-2d6a4f?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+</a>
 </div>
   
 <!--   <img src="https://komarev.com/ghpvc/?username=moutro&style=flat-square&color=blue" alt=""/> -->
