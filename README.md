@@ -37,25 +37,25 @@
 
 I build technical documentation, documentation systems, frontend projects, and AI-powered tools
 
-Background:
+**Background**
 - Senior technical writer and documentation project lead
 - Experience with developer documentation, structured authoring, docs-as-code workflows, and release documentation
 - Frontend experience with React, JavaScript, Next.js, Docusaurus, Tailwind CSS, Git, and Vercel
 
-Current focus:
+**Current focus**
 - Building practical AI tools with OpenAI APIs
 - Improving documentation workflows and technical content systems
 - Creating proof-of-work projects that combine writing, frontend development, and product thinking
 
-Selected work:
+**Selected work**
 - [Portfolio](https://www.jasonbariamis.com) - Professional proof-of-work site covering technical writing, documentation systems, frontend projects, AI work, and public writing.
 - [BookMind AI](https://bookmind-ai-reader.vercel.app/) - AI-powered book recommendation app built with OpenAI, React, and Vercel.
-- [WebDev323](https://webdev323.com) - Brand site for practical websites, documentation sites, frontend projects, and small-business web work.
 - [Detox documentation site](https://wix.github.io/Detox/showcase/) - Open-source documentation platform contribution using Docusaurus, React, Sass/SCSS, GitHub workflows, and visual testing.
+- [Medium articles](https://medium.com/@jasonbari646) - Public writing on AI tools, technical writing, frontend projects, and practical documentation workflows.
 
 ---
 
-### Languages and Tools :
+### Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React" width="40" height="40"/>&nbsp;
@@ -88,23 +88,23 @@ Selected work:
 
 ---
 
-### Socials :
+<!--### Socials :
 
 <a href="http://www.medium.com/@jasonbari646" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/@JsonBarDev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+-->
 
----
-
-### My Blog Posts :
+### Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
 - [Evolving BookMind AI: Leveraging JSON, Amazon Links, DALL-E, and the Power of TDD](https://medium.com/@jasonbari646/evolving-bookmind-ai-leveraging-json-amazon-links-dall-e-and-the-power-of-tdd-dbd6b89054dc?source=rss-cea94dae0208------2)
 - [Building an AI-Powered Book Recommendation App with Next.js and Tailwind CSS](https://medium.com/@jasonbari646/building-an-ai-powered-book-recommendation-app-with-next-js-and-tailwind-css-ba3085f7a5ed?source=rss-cea94dae0208------2)
 - [The Rise of AI — 5 Steps Technical Writers MUST DO RIGHT NOW to Adapt and Stay Relevant](https://medium.com/@jasonbari646/the-rise-of-ai-5-steps-technical-writers-must-do-right-now-to-adapt-and-stay-relevant-582d64a51d3c?source=rss-cea94dae0208------2)
+- [How I Used HubSpot Custom Code Actions to Automate Complex CRM Workflows](https://medium.com/@jasonbari646/how-i-used-hubspot-custom-code-actions-to-automate-complex-crm-workflows-7afd24f72eaa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 🔥 My GitHub Stats :
+### GitHub Stats
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=moutro&theme=dark)](https://git.io/streak-stats) -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moutro)](https://github.com/moutro/github-readme-stats) -->
@@ -129,7 +129,7 @@ Selected work:
 
 <br>
 
-<a href="https://github.com/moutro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moutro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!--<a href="https://github.com/moutro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moutro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 <!-- ![Jason’s GitHub stats](https://github-readme-stats.vercel.app/api?username=moutro&count_private=true&theme=tokyonight&show_icons=true) -->
 
