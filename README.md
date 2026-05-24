@@ -48,7 +48,7 @@ Current focus:
 - Creating developer-facing AI systems
 
 Selected work:
-- [BookMind AI](https://openai-search-tool-app-5w51.vercel.app/) – AI-powered recommendation app (OpenAI, React)
+- [BookMind AI](https://bookmind-ai-reader.vercel.app/) – AI-powered recommendation app (OpenAI, React)
 - [Detox](https://wix.github.io/Detox/showcase/) - Docusaurus-based documentation platform
 
 ---
