@@ -112,7 +112,7 @@ I build technical documentation, documentation systems, frontend projects, and A
 ![GH Moutro Stats](https://github-stats-alpha.vercel.app/api?username=moutro&cc=000&tc=fff&ic=fff&bc=000)
 
 <div>
-  <h3>Current moutro GitHub Account Streak</h3>
+  <h3>Current GitHub Activity</h3>
   <a href="https://git.io/streak-stats">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=moutro&theme=dark&background=000000" alt="GitHub Streak">
   </a>
@@ -121,7 +121,8 @@ I build technical documentation, documentation systems, frontend projects, and A
  -->
 
 <div>
-  <h3>Old jasonbariwix GitHub Account Streak</h3>
+  <h3>Legacy GitHub Activity</h3>
+  <p><em>Previous GitHub account used for earlier frontend and documentation-site work</em></p>
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=jasonbariwix&theme=dark&background=000000" alt="GitHub Streak">
   </a>
