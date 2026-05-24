@@ -4,7 +4,7 @@
 
  <div align="center">
   <h1>Hi, I'm Jason</h1>
-  <p>AI-powered developer tools • Senior Technical Writer</p>
+  <p>Technical writing • Documentation systems • Frontend projects • AI tools</p>
 </div>
 
 <div id="badges">
@@ -35,21 +35,23 @@
 
 ### About Me
 
-I build AI-powered developer tools and documentation systems
+I build technical documentation, documentation systems, frontend projects, and AI-powered tools
 
 Background:
-- Senior Technical Writer & Project Lead at a leading Telecom company
-- Built and scaled developer documentation platforms (Docusaurus, APIs, CI/CD)
-- Frontend experience (React, JavaScript)
+- Senior technical writer and documentation project lead
+- Experience with developer documentation, structured authoring, docs-as-code workflows, and release documentation
+- Frontend experience with React, JavaScript, Next.js, Docusaurus, Tailwind CSS, Git, and Vercel
 
 Current focus:
-- Building AI agents and tools using OpenAI APIs
-- Documentation workflow automation
-- Creating developer-facing AI systems
+- Building practical AI tools with OpenAI APIs
+- Improving documentation workflows and technical content systems
+- Creating proof-of-work projects that combine writing, frontend development, and product thinking
 
 Selected work:
-- [BookMind AI](https://bookmind-ai-reader.vercel.app/) – AI-powered recommendation app (OpenAI, React)
-- [Detox](https://wix.github.io/Detox/showcase/) - Docusaurus-based documentation platform
+- [Portfolio](https://www.jasonbariamis.com) - Professional proof-of-work site covering technical writing, documentation systems, frontend projects, AI work, and public writing.
+- [BookMind AI](https://bookmind-ai-reader.vercel.app/) - AI-powered book recommendation app built with OpenAI, React, and Vercel.
+- [WebDev323](https://webdev323.com) - Brand site for practical websites, documentation sites, frontend projects, and small-business web work.
+- [Detox documentation site](https://wix.github.io/Detox/showcase/) - Open-source documentation platform contribution using Docusaurus, React, Sass/SCSS, GitHub workflows, and visual testing.
 
 ---
 
